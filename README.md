@@ -1,11 +1,13 @@
-7 - Classifique nadadores com seu algoritmo, para isso você
-precisará apenas da idade do nadador em questão. A
-classificação é a seguinte:
-Infantil I: 5 a 7 anos;
-Infantil II: 8 a 11 anos;
-Juvenil I: 12 a 14 anos;
-Juvenil II: 15 a 18 anos;
-Sênior: 19 a 30 anos;
+Construa um algoritmo que calcule o imc de certa pessoa.
+Você deve perguntar o nome do usuário, seu peso e sua altura.
+Por fim, formate o resultado mostrando o nome e seu imc (peso
+/ (altura * altura)), além de classificá-lo nas seguintes
+categorias:
+Imc menor que 18,5: Magro;
+Imc igual ou maior que 18.5 e menor que 25: Normal;
+Imc igual ou maior que 25 e menor que 30: Obeso;
+Imc igual ou maior que 30: Obeso Morbido;
 
-<img width="1223" height="609" alt="image" src="https://github.com/user-attachments/assets/d9e89c5e-a730-489a-8af9-6e12958205e7" />
+<img width="1043" height="446" alt="image" src="https://github.com/user-attachments/assets/cd4d8f58-bb75-4493-895c-40208a1e1dad" />
+
 
